@@ -1,5 +1,5 @@
 # Cleaning-UCI-HAR-Dataset
-This project consists of obtaining and cleaning  Human Activity Recognition data from the UC Irvine Machine Learning Repository. It is undertaken as the peer-graded assignment for Coursera Getting and Cleaning Data course.
+This project consists of obtaining and cleaning  Human Activity Recognition data from the UC Irvine Machine Learning Repository. It is undertaken as the peer-graded assignment for Coursera's Getting and Cleaning Data course.
 
 ## Data 
 Multiple text files relating to tri-axial sensor signal (accelerometer and gyroscope) readings obtained from 30 volunteers performing various activities (walking, walking upstairs, walking downstairs, sitting, standing and laying) while wearing a smartphone (Samsung Galaxy S II) on the waist. 
